@@ -11,15 +11,13 @@
 <div align="center">
 
 [![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=F0F6FC)](#)
-[![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=F0F6FC)](#)
 [![Docker](https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=F0F6FC)](#)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=F0F6FC)](#)
 [![Linux](https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=F0F6FC)](#)
 
 </div>
 
 <div align="center">
-<sub><i>así se ve, así se siente</i></sub>
+<sub><i>imagine, planificate, code, repeat.</i></sub>
 </div>
 
 <br>
@@ -62,8 +60,8 @@
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=F0F6FC)](https://github.com/dzynss)
-[![Email](https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=F0F6FC)](mailto:tu-email@dominio.com)
-[![X](https://img.shields.io/badge/X-0D1117?style=for-the-badge&logo=x&logoColor=F0F6FC)](https://twitter.com/tu_usuario)
+[![Email](https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=F0F6FC)](mailto:narvaezmartin095@gmail.com)
+[![X](https://img.shields.io/badge/X-0D1117?style=for-the-badge&logo=x&logoColor=F0F6FC)](https://twitter.com/dzy_bot)
 
 </div>
 
